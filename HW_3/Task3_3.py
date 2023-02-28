@@ -24,6 +24,7 @@
 “ед”: [“шт.”]
 }
 """
+
 goods, order = [], 1
 title, price, amount, unit = None, None, None, None
 while True:
